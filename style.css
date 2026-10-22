@@ -1,0 +1,19 @@
+*{
+  margin: 0
+        }
+#first{
+        color:red;
+     background-color:aqua; 
+     text-align:center;
+     font-size:60px;text-transform:uppercase;
+     letter-spacing:10px;
+     word-spacing:0px;">
+     pading: 20px;
+    }
+
+    .lorem{
+        width: 300px;
+        border: 1px solid;
+        padding:20px;
+        box-sizing:border-box;
+    }
